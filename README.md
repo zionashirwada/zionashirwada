@@ -39,7 +39,10 @@ I also co-founded **LEXi** and study **Computer Science at the University of Wes
 ### `toolbox --favorites`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,php,python,java,cs,react,nextjs,tailwind,laravel,nodejs,express,fastapi,spring,postgres,mysql,mongodb,aws,azure,docker,githubactions,git&perline=11" alt="Technology stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zionashirwada/zionashirwada/main/assets/toolbox-dark.svg">
+    <img src="https://raw.githubusercontent.com/zionashirwada/zionashirwada/main/assets/toolbox-light.svg" alt="Tech stack: TypeScript, JavaScript, PHP, Python, Java, C#, React, Next.js, Tailwind CSS, Laravel, Node.js, Express, FastAPI, Spring Boot, PostgreSQL, MySQL, MongoDB, AWS, Azure, Docker, GitHub Actions, Git" width="720">
+  </picture>
 </p>
 
 <details>
