@@ -1,211 +1,187 @@
-<h1 align="center">Hi , I'm Zion Ashirwada <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Zion Ashirwada <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Teach+Lead+@PsycodeLab's;Competitive+Programmer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=%2339D353&size=24&center=true&vCenter=true&width=640&height=90&lines=Associate+Software+Engineer+%40+Creative+Software;Product+architect+for+Swishh;Full-stack+%2B+Mobile+%2B+AI+%2B+Cloud;Co-founder+%40+LEXi;CS+%40+University+of+Westminster+(IIT)" alt="Typing intro"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zionashirwada&label=Profile%20views&color=0047AB&style=plastic" alt="Profile views" height="25">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zionashirwada/zionashirwada/output/skyline-dark.svg">
+    <img alt="A year of my GitHub contributions as a heat map that rises into a 3D skyline" src="https://raw.githubusercontent.com/zionashirwada/zionashirwada/output/skyline-light.svg" width="100%">
+  </picture>
+</p>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
+
+<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
+
+- 💼 **Associate Software Engineer** at [Creative Software](https://www.creativesoftware.com/), shipping full-stack web, mobile, AI and cloud products for 5+ years.
+- 🏗️ Product architect and lead engineer for **Swishh**, an AI-powered course and game authoring platform (Create, Games, Academy).
+- 🤖 Created the **Layup AI server** (FastAPI, Qdrant) behind multilingual semantic search in English, Sinhala and Tamil, AI course generation and **Lumi**, Layup's AI assistant.
+- 📱 Single-handedly built and shipped the **Layup Learn** app (React Native, Expo) to the App Store and Google Play.
+- ☁️ Led an AWS cost audit that cut monthly AWS spend by **46%**.
+- 🧠 Co-founder of **LEXi**, an AI-powered dyslexia assistive learning platform.
+- 🎓 BSc (Hons) Computer Science at the [University of Westminster](https://www.westminster.ac.uk/) via [IIT Sri Lanka](https://www.iit.ac.lk/), graduating Sep 2027. BCS HEQ in progress.
+- 🔭 Open to full-time **Software Engineer** roles. Say hi at [zionashir.lk](https://www.zionashir.lk).
+
+<br clear="right">
+
+## 💼 Experience
+
+| Role | Company | When |
+| --- | --- | --- |
+| Associate Software Engineer | Creative Software | May 2026 - Present |
+| Software Engineer Intern | Creative Software | May 2025 - May 2026 |
+| Co-founder, Tech Lead and PM | LEXi | Oct 2024 - Present |
+| Software Developer | CodeBar Australia | May 2024 - Jan 2025 |
+| Freelance Developer and Team Lead | Psycode Lab's | Dec 2023 - May 2025 |
+| Software Developer Intern | Emetsoft (Pvt) Ltd | Apr 2023 - Oct 2023 |
+
+<details><summary><b>What I worked on</b></summary>
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=zionashirwada&label=Profile%20views&color=0047AB&style=plastic?" alt="zionashirwada" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	
+**Swishh** (Creative Software)
+- Owned system design, API conventions and technical direction across five apps (Create, Games, Academy, Auth, Admin).
+- Laravel 12 REST API with OAuth2 multi-app, multi-device auth (Passport), PostgreSQL, S3, queue workers and PayHere billing.
+- AI content generation with OpenAI, Runware and LlamaIndex, exporting SCORM 1.2 / 2004 packages.
+- Next.js 16 / React 19 frontends with a BFF layer, shared SSO via NextAuth and an in-browser SCORM player, on AWS Amplify.
+- Led and mentored engineering interns through code reviews, onboarding docs and sprint planning.
 
-</p>
+**Layup**, a multi-tenant e-learning platform used by 60+ organisations
+- Layup AI server: multilingual semantic search (OpenAI embeddings, Qdrant, reranking), AI course generation, writing tools and moderation.
+- Lumi: an AI assistant over analytics dashboards that picks the right chart and filters, with real-time voice (OpenAI, Gemini) and an eval golden set.
+- Layup Learn mobile app: tenant resolution, SSO, secure sessions, push notifications, per-tenant icons and EAS release pipeline.
+- AWS cost audit across Aurora Serverless, RDS Proxy, EC2, ALB and S3: monthly spend down 46% (Jun to Aug 2026).
+- VAPT for Layup and Swishh, an InsightDesk analytics dashboard, a tenant cost console and a Playwright E2E suite.
 
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- :Bachelors: I am a `Student` at [University of Westminster](https://www.westminster.ac.uk/) at [Informatics Institute of Technology](https://www.iit.ac.lk/).
-- :Bachelors: I am a `MBCS` Member at [British Computer Society](https://www.BCS.org/) Currently Studying Credit Level 6.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `IEEE`, `Hackerrank`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Information System`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/open?id=1-3tJau6YdBogIUzgbXAbPBjsf-LSVOW_&usp=drive_fs).
-- :boom: You can visit [MY WEBSITE](rebrand.ly/zion_ashir).
-<br>
-
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Extra Education Certifications
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashirwada-manamudali/details/certifications/1715171280680/single-media-viewer?type=IMAGE&profileId=ACoAADZsS3ABqpbiczulOy0p9J5vnKN4uoedjDA&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BBg%2FtkFrzQbeORxKVEZhhiw%3D%3D"><img src="https://media.licdn.com/dms/image/C4E0BAQFgocdTGHthDA/company-logo_100_100/0/1630604808565/cisco_networking_academy1_logo?e=1725494400&v=beta&t=i-ctKKOr1zvlnxSJoaN5Z4svtb4ojBJVpryUdxSqGz8" height=60px /></a>
-	<a href="https://www.linkedin.com/in/ashirwada-manamudali/details/certifications/1707730660507/single-media-viewer?type=DOCUMENT&profileId=ACoAADZsS3ABqpbiczulOy0p9J5vnKN4uoedjDA&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bo%2FZ7wVswR7uG9KDHklzN4g%3D%3D">
-    <img src="https://media.licdn.com/dms/image/D4D0BAQF7aI2nEg5f6A/company-logo_100_100/0/1692874661670/board_infinity_logo?e=1725494400&v=beta&t=3d--fFIfb22kHlTZlquzJ45S3d-tIVNv_2tWL75CgxI" height=60px /></a>
-	<a href="https://coursera.org/share/72216ba292579306ed10cd7913beea3e">
-    <img src="https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_100_100/0/1631311446380?e=1725494400&v=beta&t=P83VQNc_xsMPK9-eRcyQDrskDklkI3GgBmJU67T4nVM" alt="AtCoder" height=60px /></a>
-	<a href="https://open.uom.lk/verify">
-    <img src="https://media.licdn.com/dms/image/C4D0BAQF4Jo3PxJpuVw/company-logo_100_100/0/1631307772357?e=1725494400&v=beta&t=BVfoMx4iQGoyJroRfW7MkrwEhnhwLm1aFxLRFzIWYlc" height=60px/></a>
-	<a href="https://coursera.org/verify/YMDNV5GW9CA8">
-    <img src="https://media.licdn.com/dms/image/C4D0BAQFSi1nlisxTcg/company-logo_100_100/0/1631312234132?e=1725494400&v=beta&t=oxWdInxm_WPkeFGJ4ca_Vq2F0brShc8vdyDfGyHZFW8" height=60px /></a>     
-	<a href="https://www.coursera.org/verify/RKGRURGJHK5J" >
-    <img src="https://media.licdn.com/dms/image/C4E0BAQEEhMjaGWn_cg/company-logo_100_100/0/1630571886492?e=1725494400&v=beta&t=yJ4E6Z-HLKqOKaRrFRmoyBXHpdAhVW6eHEPMV99KiA4"  height=60px>
-    <a href="https://www.coursera.org/verify/A2HTRSMTW6A3" >
-    <img src="https://media.licdn.com/dms/image/C4E0BAQFGfERBPGurCg/company-logo_100_100/0/1631307390795?e=1725494400&v=beta&t=6SUnpbdMuZQ1jYbc_5bvcGyPzJYD4urFhN6BGyjdpu4"  height=60px>
-      <a href="https://www.coursera.org/verify/YKE354M4P28R" >
-    <img src="https://media.licdn.com/dms/image/C4E0BAQFdNatYGiBelg/company-logo_100_100/0/1636138754252/facebook_logo?e=1725494400&v=beta&t=evREUkh2bKB59HC2HI68F1YETZaZ0r_VCd8swnn_wkc"  height=60px>
-        <a href="https://www.futurelearn.com/certificates/dvlq0yw" >
-    <img src="https://media.licdn.com/dms/image/C4E0BAQE0CKeyyA6TaQ/company-logo_100_100/0/1631327098783?e=1725494400&v=beta&t=1jWswyCtGCOsqTYudgdgu6o4aoWlBB600lEOjHNwd6Q"  height=60px>
-</p>
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:ashirwadamanamudali@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/zionashirwada"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/+94774738649"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/ashirwada-manamudali/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/ashirwada.manamudali"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/zion_ashir/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	
-</p>
-
-
-
-## 🛠️ My Skills
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-<p align="center"> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-</p>
-
- 
-
-
-<br> 
-
----
-
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontalhttps://camo.githubusercontent.com/b980642c0a438bc2236220c46a5194d5c8d25de521bc7e3ef1aa9330e70f5ee8/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c?type=horizontal"> 
-</p>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zionashirwada&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+**Earlier**
+- **LEXi**: Spring Boot, MySQL and OpenAI backend plus a React Native / Expo app with Azure CI/CD.
+- **CodeBar Australia**: built Fusionline, a full-stack CRM (Node.js, Express, Next.js, MySQL, Prisma).
+- **Psycode Lab's**: 20+ client projects and 5+ SaaS products. Wrote the first code for [sdgp.lk](https://sdgp.lk), recognised as its top contributor in 2026.
+- **Emetsoft**: migrated a legacy .NET CRM for Sri Lankan Pradeshiya Sabhas to ASP.NET Core.
 
 </details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-----
-	
+## 🛠️ Tech stack
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Languages
+
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="zionashirwada's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zionashirwada&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zionashirwada&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="zionashirwada" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![Zion's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zionashirwada&bg_color=292929&color=00855d&line=008020&point=45f290&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zionashirwada&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="zionashirwada" /></a> </p>
-
-	
-</details>
-	
-
-
-</br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=dotnet&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white">
 </p>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"></picture> Frontend and Mobile
+
+<p align="center">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black">
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=plastic&logo=react&logoColor=61DAFB">
+  <img alt="Expo" src="https://img.shields.io/badge/Expo%20%2F%20EAS-000020?style=plastic&logo=expo&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white">
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=plastic&logo=shadcnui&logoColor=white">
+  <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=plastic&logo=reactquery&logoColor=white">
+</p>
+
+### ⚙️ Backend and APIs
+
+<p align="center">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white">
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=plastic&logo=dotnet&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white">
+</p>
+
+### 🗄️ Data
+
+<p align="center">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=prisma&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=plastic&logo=supabase&logoColor=white">
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=plastic">
+</p>
+
+### ☁️ Cloud, DevOps and AI
+
+<p align="center">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=plastic">
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=plastic">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic&logo=githubactions&logoColor=white">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=plastic">
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=plastic&logo=googlegemini&logoColor=white">
+  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-DC244C?style=plastic&logo=qdrant&logoColor=white">
+  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-000000?style=plastic">
+</p>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Testing and Security
+
+<p align="center">
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=plastic">
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=plastic&logo=vitest&logoColor=white">
+  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=plastic&logo=pytest&logoColor=white">
+  <img alt="VAPT" src="https://img.shields.io/badge/VAPT-B22222?style=plastic">
+</p>
+
+## 🚀 Selected projects
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| **Loyola Intranet** | School management and report card system for Loyola College, Negombo | Next.js, MUI, Prisma, MySQL, Vercel |
+| **Procure House** | Hotel procurement platform with hotel, supplier and procurement portals | Laravel 13, PostgreSQL |
+| **TeacherPro** | LMS that sells courses as session packs, with private video storage | Laravel 12, Filament 4, PostgreSQL, S3 |
+| **AVEM Travels** | Sri Lankan travel company site with a headless CMS | Next.js 16, Payload CMS, PostgreSQL |
+| **People Practice Hub** | Job-seeker mobile app for a recruitment platform | React Native, Expo |
+| **VoltFlow** | EV charging tracker for sessions, efficiency and costs | React Native, Expo, Supabase |
+
+Earlier: Psyc-Chat (AI help desk SaaS), Vehicle Import Tax Calculator, Evenro, Hesed, Visa Management System, Kaputa2004 to Unicode Converter and a Church Management System.
+
+## ✍️ Writing
+
+- [How We Designed a Future-Proof AI Microservice with FastAPI](https://medium.com/@ashirwadamanamudali/how-we-designed-a-future-proof-ai-microservice-with-fastapi-8d2baa5e5961)
+- [Why Next.js Became My Go-To Framework for Web Development](https://medium.com/@ashirwadamanamudali/why-next-js-became-my-go-to-framework-for-web-development-0f93f28674e8)
+- [Navigating the Journey of Dyslexia Detection: How LEXi Adapts to Every Learner](https://medium.com/@ashirwadamanamudali/navigating-the-journey-of-dyslexia-detection-how-lexi-adapts-to-every-learner-63535019ecef)
+- [Designing LEXi: Creating a Dyslexia-Friendly Learning Experience Through Thoughtful UI/UX](https://medium.com/@ashirwadamanamudali/designing-lexi-creating-a-dyslexia-friendly-learning-experience-through-thoughtful-ui-ux-764b0c52e502)
+- More on [Medium](https://medium.com/@ashirwadamanamudali)
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40"></picture> Leadership and certifications
+
+- 🏆 **Team Lead, IEEEXtreme 17.0** (2023): #5 at IIT, #98 in Sri Lanka, #1264 worldwide.
+- 🎤 Loyola College (2018 - 2022): Senior Prefect, Media Unit President, Literary Union Media Head, Choir Leader.
+- 🪪 Member of IEEE (since 2023) and BCS, The Chartered Institute for IT (since 2023).
+- 📜 AWS Compute Knowledge Badge (AWS, 2026), Foundations of Cybersecurity (Google), Cyber Security (Harvard), Introduction to Cybersecurity (Cisco), Spring Boot 2.0 and Creating API Documentation (LinkedIn Learning), Python for Beginners (University of Moratuwa), Programming for Everybody (University of Michigan). See them on [LinkedIn](https://www.linkedin.com/in/ashirwada-manamudali/details/certifications/).
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect with me
+
+<p align="center">
+  <a href="mailto:ashirwadamanamudali@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.zionashir.lk"><img src="https://img.shields.io/badge/zionashir.lk-000000?style=plastic&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/ashirwada-manamudali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic" alt="LinkedIn"></a>
+  <a href="https://medium.com/@ashirwadamanamudali"><img src="https://img.shields.io/badge/Medium-000000?style=plastic&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://wa.me/+94774738649"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://www.instagram.com/zion_ashir/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/ashirwada.manamudali"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> GitHub stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zionashirwada&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="200"></a>
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=zionashirwada&langs_count=10&theme=tokyonight&layout=compact" height="200">
+</p>
+
+<p align="center"><sub>The skyline above is rendered every day by <a href=".github/workflows/skyline.yml">a GitHub Action</a> from my contribution calendar.</sub></p>
