@@ -19,8 +19,8 @@
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zionashirwada/zionashirwada/output/skyline-dark.svg">
-    <img alt="A year of my GitHub contributions as a heat map that rises into a 3D skyline" src="https://raw.githubusercontent.com/zionashirwada/zionashirwada/output/skyline-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zionashirwada/zionashirwada/skyline/skyline-dark.svg">
+    <img alt="A year of my GitHub contributions as a heat map that rises into a 3D skyline" src="https://raw.githubusercontent.com/zionashirwada/zionashirwada/skyline/skyline-light.svg" width="100%">
   </picture>
 </p>
 
